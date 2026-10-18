@@ -25,7 +25,9 @@ Miss Rate      = DIVIDE([SLA Misses], [Completed Jobs])
 
 ## Findings
 
-<!-- Write this section yourself: three or four bullet points, each one a finding with its number. Delete this line when you're done. -->
+- **Holborn and Stratford went over budget.** Holborn went £4,198 over its £30,000 budget. Its July spend was £16,898. In July, its HVAC alone cost £8,116, against £3,208 in June and nothing in August. If July's HVAC had cost the same as June's, Holborn's total would have been £29,290, which is £710 under budget. Stratford went £1,275 over its £25,000 budget. Its August spend was £12,535, while June was £7,612 and July was £6,128. Unlike Holborn, its main contributor was the increase in job volume in August: 21 jobs, compared with 8 in July and 14 in June.
+- **July had the highest actual spend.** July cost £49,237, the most of any month, mainly because of Holborn's HVAC spike.
+- **Stratford had the highest SLA miss rate.** Its miss rate was 28.57%: it had 10 SLA misses out of 35 completed jobs. Canary Wharf had the most misses, at 12, but it also had the most completed jobs, at 68, so its rate was lower, at 17.65%.
 
 ## Design choices
 
